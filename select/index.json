@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "-Interlude-",
+  "base_artist": "れをる",
+  "createdAt": "2025-12-01T14:09:05.290129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Interlude",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Interlude_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Interlude",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_Interlude_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "2 Lit 2 Late Interlude",
+      "artist": "Nicki Minaj",
+      "has_synced": false,
+      "path": "select/03_2_Lit_2_Late_Interlude_Nicki_Minaj.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alfred (Interlude)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/04_Alfred_(Interlude)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby Girl Interlude / Intro",
+      "artist": "Missy Elliott feat. Mary J. Blige",
+      "has_synced": true,
+      "path": "select/05_Baby_Girl_Interlude___Intro_Missy_Elliott_feat._Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby Girl Interlude\u0000Intro (feat. Mary J. Blige)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/06_Baby_Girl_Interlude\u0000Intro_(feat._Mary_J._Blige)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blunted Interlude",
+      "artist": "Fugees",
+      "has_synced": true,
+      "path": "select/07_Blunted_Interlude_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Breath of God Interlude",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/08_Breath_of_God_Interlude_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bria's Interlude (feat. Omarion)",
+      "artist": "Drake feat. Omarion",
+      "has_synced": true,
+      "path": "select/09_Bria's_Interlude_(feat._Omarion)_Drake_feat._Omarion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bria's Interlude (feat. Omarion)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/10_Bria's_Interlude_(feat._Omarion)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cameras / Good Ones Go Interlude",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/11_Cameras___Good_Ones_Go_Interlude_Drake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cameras / Good Ones Go Interlude",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/12_Cameras___Good_Ones_Go_Interlude_Drake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cece's Interlude",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/13_Cece's_Interlude_Drake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Da Kid From Haiti Interlude",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/14_Da_Kid_From_Haiti_Interlude_Fugees.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jorja Interlude",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/15_Jorja_Interlude_Drake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Marvins Room / Buried Alive Interlude",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/16_Marvins_Room___Buried_Alive_Interlude_Drake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Interlude to Dejavu",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_Interlude_to_Dejavu_倖田_來未.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Interlude ～Bon Voyage～",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_02_Interlude_~Bon_Voyage~_倖田_來未.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "interlude #01",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_03_interlude__01_倖田_來未.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Interlude ～Dance～",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_04_Interlude_~Dance~_倖田_來未.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "interlude",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_05_interlude_倖田_來未.txt"
+    }
+  ]
+}
